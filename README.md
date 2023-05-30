@@ -37,5 +37,9 @@ The project incorporates a fake API service that simulates interactions with a b
 
 Contributions to this project are welcome. If you find any issues or have ideas for improvements, please submit an issue or a pull request.
 
+## Contact
+
+For any inquiries or questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pawankumar-b-482728184/).
+
 
 
